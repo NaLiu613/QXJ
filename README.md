@@ -1,6 +1,6 @@
-# QXJ
+# QXJ 卫星、仪器以及数据说明可以直接在该网址查看：http://data.nsmc.org.cn/portalsite/default.aspx
 
-FY-3D: 中分辨率光谱成像仪(MERSI)  红外高光谱大气探测仪(HIRAS)
+FY-3D: 中分辨率光谱成像仪(MERSI)  红外高光谱大气探测仪(HIRAS) https://blog.csdn.net/zhanglingfeng1/article/details/117281453
 
 FY-4B: 静止轨道气象卫星=>GHI和AGRI的光谱响应函数  https://tieba.baidu.com/p/7859663950?pn=1
 
